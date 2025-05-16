@@ -1,7 +1,6 @@
 # Deepfake-image-detector
 
 A deep learning-based image forensics project to detect deepfake images using a ResNet50V2 architecture trained on filtered datasets with Keras and TensorFlow.
-# Deepfake Image Detector 🕵️‍♀️🖼️
 
 
 ##  Model Overview
