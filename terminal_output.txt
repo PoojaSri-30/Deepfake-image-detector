@@ -1,0 +1,19 @@
+Epoch 3/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 138s 17s/step - accuracy: 0.5387 - loss: 0.8405 - val_accuracy: 0.5832 - val_loss: 0.6985 - learning_rate: 1.0000e-05
+Epoch 4/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 140s 18s/step - accuracy: 0.5617 - loss: 0.8219 - val_accuracy: 0.5872 - val_loss: 0.6870 - learning_rate: 1.0000e-05
+Epoch 5/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 139s 18s/step - accuracy: 0.5957 - loss: 0.7230 - val_accuracy: 0.6012 - val_loss: 0.6752 - learning_rate: 1.0000e-05
+Epoch 6/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 134s 17s/step - accuracy: 0.5919 - loss: 0.7644 - val_accuracy: 0.6112 - val_loss: 0.6659 - learning_rate: 1.0000e-05
+Epoch 7/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 473s 64s/step - accuracy: 0.5722 - loss: 0.7295 - val_accuracy: 0.6132 - val_loss: 0.6579 - learning_rate: 1.0000e-05
+Epoch 8/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 134s 17s/step - accuracy: 0.6262 - loss: 0.7062 - val_accuracy: 0.6152 - val_loss: 0.6506 - learning_rate: 1.0000e-05
+Epoch 9/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 290s 39s/step - accuracy: 0.6522 - loss: 0.6522 - val_accuracy: 0.6152 - val_loss: 0.6442 - learning_rate: 1.0000e-05
+Epoch 10/10
+8/8 ━━━━━━━━━━━━━━━━━━━━ 200s 26s/step - accuracy: 0.6455 - loss: 0.6804 - val_accuracy: 0.6172 - val_loss: 0.6380 - learning_rate: 1.0000e-05
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+8/8 ━━━━━━━━━━━━━━━━━━━━ 39s 4s/step
+✅ Training completed and all outputs saved successfully!
