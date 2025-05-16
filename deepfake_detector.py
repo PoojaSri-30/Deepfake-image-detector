@@ -21,7 +21,7 @@ epoch_list = list(range(1, epochs + 1))
 network_name = "ResNet50V2"
 
 # Paths
-base_path = r'C:\Users\Poojasri\OneDrive\Documents\Project exhibition 2\deepfakeproject\Datasets'
+base_path = r'Source path'
 train_dir = os.path.join(base_path, 'filtered-dataset-full', 'training')
 test_dir = os.path.join(base_path, 'filtered-dataset-full', 'testing')
 
